@@ -1,2 +1,2 @@
 # MorsePaddles
-Compact 3D-printed morse paddles
+This design is for 3D-printed iambic paddles for sending Morse code. The design is simple, but provides precise movement with adjustable force and travel. Design features include a printed rocker hinge, force adjustment by a sliding spring, travel adjustment using a modified screw, ergonomic grip and general simplicity and precision. The design is compact and well suited for portable use.
