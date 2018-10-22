@@ -155,7 +155,7 @@ module base_add(){ // parts of base that add to shape
         translate([-wxbase/2,0,0])
         cube([wxbase,lybase,hzwall]);
         translate([-wxbase/2+wallt,wallt,0])
-        cube([wxbase-2*wallt,lybase,hzwall]);
+        cube([wxbase-2*wallt,lybase,hzwall+tol]);
     }
     
     //wedge 1
