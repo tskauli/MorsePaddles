@@ -1,2 +1,4 @@
 # MorsePaddles
 This design is for 3D-printed iambic paddles for sending Morse code. The design is simple, but provides precise movement with adjustable force and travel. Design features include a printed rocker hinge, force adjustment by a sliding spring, travel adjustment using a modified screw, ergonomic grip and general simplicity and precision. The design is compact and well suited for portable use.
+
+The version 2 of the paddles is a bit sleeker, and also more robust against pushing the arms out or place, thanks to a base that extends under the full length of the arms. The space inside is a bit more tight, and the central screw has to be shorter. Otherwise the design is essentially the same as the first version. These instructions are not updated with new images of everything, and both designs work just fine. Version 2 is used in the Compact QCX enclosure.
